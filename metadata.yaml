@@ -1,5 +1,8 @@
 _repo: Revolving-Lights-Pilgrimage-Volume-7_62967
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62967-h/images/cover.jpg
 creator:
   author:
     agent_name: Richardson, Dorothy M. (Dorothy Miller)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1090
     wikipedia: https://en.wikipedia.org/wiki/Dorothy_Richardson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62967#Revolving-Lights-Pilgrimage-Volume-7
 gutenberg_issued: '2020-08-18'
 gutenberg_type: Text
 identifiers:
